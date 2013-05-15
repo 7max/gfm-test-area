@@ -9,7 +9,7 @@ Test screenshot
 
 End of test screenshot
 
-[Link](Heading)
+[Link](#Heading)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc interdum nisi id nunc adipiscing pretium at eu lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur elementum interdum adipiscing. Maecenas erat dolor, mattis et iaculis sed, fermentum volutpat orci. Praesent felis orci, fringilla sit amet tempor nec, sollicitudin eget urna. Aliquam sed metus elit, at bibendum velit. Mauris lectus velit, commodo id viverra ut, fermentum non enim.
 
